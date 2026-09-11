@@ -26,7 +26,7 @@ window.BIRTHDAY_INVITATION = {
   // 4. 主文案
   questTitle: '解锁快乐新一岁',
   invitationText: '新一岁的入口已经出现。诚邀你来到蓝洞，与我一起碰杯、分享蛋糕，把这一晚变成值得收藏的冒险记录。',
-  giftNotice: '参与是最好的礼物，请轻装赴约。',
+  giftNotice: '参与就是最好的礼物！',
   endingTitle: '一起潜入快乐新一岁',
 
   // 5. 当天流程：可以增加或删除整组 { ... }
